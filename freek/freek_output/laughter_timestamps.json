@@ -1,0 +1,60 @@
+{
+  "source_audio": "freek1.mp3",
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 0.8211887847491692,
+      "filename": "laugh_0.wav"
+    },
+    {
+      "index": 1,
+      "start": 6.170647153972329,
+      "end": 13.56134621671485,
+      "filename": "laugh_1.wav"
+    },
+    {
+      "index": 2,
+      "start": 16.353388084862026,
+      "end": 34.607241643000705,
+      "filename": "laugh_2.wav"
+    },
+    {
+      "index": 3,
+      "start": 41.08290177416558,
+      "end": 70.29375997452888,
+      "filename": "laugh_3.wav"
+    },
+    {
+      "index": 4,
+      "start": 73.57851511352555,
+      "end": 74.1181534577893,
+      "filename": "laugh_4.wav"
+    },
+    {
+      "index": 5,
+      "start": 77.52022128032158,
+      "end": 83.47970560392983,
+      "filename": "laugh_5.wav"
+    },
+    {
+      "index": 6,
+      "start": 85.91980942147022,
+      "end": 88.80570143644587,
+      "filename": "laugh_6.wav"
+    },
+    {
+      "index": 7,
+      "start": 94.17862234237614,
+      "end": 104.6663762504584,
+      "filename": "laugh_7.wav"
+    },
+    {
+      "index": 8,
+      "start": 106.42606650349234,
+      "end": 112.26823814356499,
+      "filename": "laugh_8.wav"
+    }
+  ],
+  "total_count": 9
+}
